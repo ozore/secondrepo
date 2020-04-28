@@ -1,3 +1,3 @@
-hello="Hello World";
-alert(hello;
+let hello2="Hello World";
+alert(hello);
 
