@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-console.log("Modification effectuee:");
+/// Creation du message
 let message = "Revenu sur Master, après creation de branche initiative2";
 
-=======
+/// Creation de la variable
 let hello2="Hello World";
-alert(hello);
->>>>>>> initiative2
 
-console.log("Bonjour");
+///alerting avec le message
+alert(hello2);

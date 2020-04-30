@@ -1,4 +1,12 @@
 # JavaScript1
 Test sur MAC OS
+ 
 
-Nouveau
+/// Creation du message
+/// Creation de la variable
+///alerting avec le message
+ 
+Commit1
+/// Creation du message
+/// Creation de la variable
+///alerting avec le message
